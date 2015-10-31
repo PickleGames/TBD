@@ -339,6 +339,7 @@ public class MenuState extends GameState {
 			tb.dispose();
 		}
 		stage.dispose();
+		background.dispose();
 		MusicBox.stop("MenuMusic");
 	}
 
