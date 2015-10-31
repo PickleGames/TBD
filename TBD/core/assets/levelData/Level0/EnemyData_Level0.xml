@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<Enemies>
+	<Target>bob</Target>
+	<Enemy positionX="25" positionY="4" type="1"></Enemy>
+	<Enemy positionX="27" positionY="7" type="1"></Enemy>
+	<Enemy positionX="28" positionY="14" type="1"></Enemy>
+	<Enemy positionX="19" positionY="8" type="1"></Enemy>
+	<Enemy positionX="3" positionY="5" type="1"></Enemy>
+	<Enemy positionX="6" positionY="5" type="3"></Enemy>
+	<Enemy positionX="5" positionY="15" type="1"></Enemy>
+	<Enemy positionX="4" positionY="14" type="2"></Enemy>
+	<Enemy positionX="13" positionY="21" type="1"></Enemy>
+	<Enemy positionX="15" positionY="20" type="2"></Enemy>
+	<Enemy positionX="28" positionY="14" type="1"></Enemy>
+	<Enemy positionX="18" positionY="21" type="3"></Enemy>
+</Enemies>

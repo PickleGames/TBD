@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<Level>
+	<LevelNumber>0</LevelNumber>
+	<MapDir>map/Level_4.tmx</MapDir>
+	<EnemyNumber>2</EnemyNumber>
+</Level>

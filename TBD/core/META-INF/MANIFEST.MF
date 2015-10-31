@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: MovingImage-core
+Bundle-SymbolicName: MovingImage-core
+Bundle-Version: 1.0.0.qualifier
+Export-Package: com.mygdx.entities,
+ com.mygdx.game,
+ com.mygdx.gameState,
+ com.mygdx.gameState.levelState,
+ com.mygdx.gameStateManager
