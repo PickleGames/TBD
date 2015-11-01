@@ -24,10 +24,8 @@ public class TBDGame extends ApplicationAdapter {
 	
 	// THIS IS A COMMENT 
 	// k
-<<<<<<< HEAD
 	// kk
-=======
->>>>>>> junk/testing
+
 	public void create() {
 		HEIGHT = Gdx.graphics.getHeight();
 		WIDTH = Gdx.graphics.getWidth();
